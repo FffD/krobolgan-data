@@ -1,0 +1,20 @@
+{
+ "item_id": 19,
+ "name": "Lambalæri (leg of lamb)",
+ "category": "Meat & Poultry",
+ "sku": "100132054",
+ "product_name": "Goða lambalæri frosið",
+ "unit": "KG",
+ "charged_by_weight": true,
+ "observations": [
+  {
+   "date": "2026-08-23",
+   "status": "ok",
+   "shelf_price": 8016,
+   "effective_price": 8016,
+   "on_sale": false,
+   "unit_price": 2699.0,
+   "temporary_shortage": false
+  }
+ ]
+}

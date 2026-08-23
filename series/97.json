@@ -1,0 +1,20 @@
+{
+ "item_id": 97,
+ "name": "Pepsi Max (2L)",
+ "category": "Non-Alcoholic Beverages",
+ "sku": "100254826",
+ "product_name": "Pepsi max 6pk",
+ "unit": "LTR",
+ "charged_by_weight": false,
+ "observations": [
+  {
+   "date": "2026-08-23",
+   "status": "ok",
+   "shelf_price": 712,
+   "effective_price": 712,
+   "on_sale": false,
+   "unit_price": 0.36,
+   "temporary_shortage": false
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "item_id": 53,
+ "name": "Pears",
+ "category": "Fruits & Vegetables",
+ "sku": "100124705",
+ "product_name": "Perur ávaxtamarkaður",
+ "unit": "STK",
+ "charged_by_weight": false,
+ "observations": [
+  {
+   "date": "2026-08-23",
+   "status": "ok",
+   "shelf_price": 50,
+   "effective_price": 50,
+   "on_sale": false,
+   "unit_price": 50.0,
+   "temporary_shortage": false
+  }
+ ]
+}

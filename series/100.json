@@ -1,0 +1,20 @@
+{
+ "item_id": 100,
+ "name": "Kristall (sparkling water, unflavored)",
+ "category": "Non-Alcoholic Beverages",
+ "sku": "100118130",
+ "product_name": "Kristall án bragðefna 2L",
+ "unit": "LTR",
+ "charged_by_weight": false,
+ "observations": [
+  {
+   "date": "2026-08-23",
+   "status": "ok",
+   "shelf_price": 234,
+   "effective_price": 234,
+   "on_sale": false,
+   "unit_price": 117.0,
+   "temporary_shortage": false
+  }
+ ]
+}

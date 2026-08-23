@@ -1,0 +1,20 @@
+{
+ "item_id": 88,
+ "name": "Nespresso-compatible pods",
+ "category": "Pantry Sauces & Condiments",
+ "sku": "100271837",
+ "product_name": "Nespresso ARPEGGIO (9)",
+ "unit": "STK",
+ "charged_by_weight": false,
+ "observations": [
+  {
+   "date": "2026-08-23",
+   "status": "ok",
+   "shelf_price": 949,
+   "effective_price": 949,
+   "on_sale": false,
+   "unit_price": 94.9,
+   "temporary_shortage": false
+  }
+ ]
+}

@@ -1,0 +1,1002 @@
+[
+ {
+  "item_id": 1,
+  "name": "Nýmjólk (whole milk)",
+  "category": "Dairy, Eggs & Alternatives",
+  "sku": "02500188",
+  "product_name": "MS nýmjólk",
+  "unit": "LTR",
+  "charged_by_weight": false,
+  "brand": "MS"
+ },
+ {
+  "item_id": 2,
+  "name": "Léttmjólk (semi-skimmed)",
+  "category": "Dairy, Eggs & Alternatives",
+  "sku": "02500211",
+  "product_name": "MS léttmjólk",
+  "unit": "LTR",
+  "charged_by_weight": false,
+  "brand": "MS"
+ },
+ {
+  "item_id": 3,
+  "name": "Fjörmjólk (vitamin enriched)",
+  "category": "Dairy, Eggs & Alternatives",
+  "sku": "02500134",
+  "product_name": "MS fjörmjólk laktósalaus",
+  "unit": "LTR",
+  "charged_by_weight": false,
+  "brand": "MS"
+ },
+ {
+  "item_id": 4,
+  "name": "Oat milk (e.g., Oatly)",
+  "category": "Dairy, Eggs & Alternatives",
+  "sku": "100232448",
+  "product_name": "Oatly  kalkbætt haframjólk",
+  "unit": "LTR",
+  "charged_by_weight": false,
+  "brand": "Oatly "
+ },
+ {
+  "item_id": 5,
+  "name": "Brauðostur (mild slicing cheese)",
+  "category": "Dairy, Eggs & Alternatives",
+  "sku": "02400060",
+  "product_name": "MS brauðostur 26%",
+  "unit": "KG",
+  "charged_by_weight": true,
+  "brand": "MS"
+ },
+ {
+  "item_id": 6,
+  "name": "Gouda",
+  "category": "Dairy, Eggs & Alternatives",
+  "sku": "100240439",
+  "product_name": "MS gouda 17% í sneiðum",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "MS"
+ },
+ {
+  "item_id": 7,
+  "name": "Rjómaostur (cream cheese)",
+  "category": "Dairy, Eggs & Alternatives",
+  "sku": "100247204",
+  "product_name": "MS rjómaostur hreinn",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "MS"
+ },
+ {
+  "item_id": 8,
+  "name": "Feta cheese in oil",
+  "category": "Dairy, Eggs & Alternatives",
+  "sku": "02400184",
+  "product_name": "Dala salatostur í kryddolíu",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Dala"
+ },
+ {
+  "item_id": 9,
+  "name": "KEA Skyr (plain)",
+  "category": "Dairy, Eggs & Alternatives",
+  "sku": "02500273",
+  "product_name": "KEA skyr hreint 500g",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "KEA"
+ },
+ {
+  "item_id": 10,
+  "name": "Ísey Skyr (vanilla)",
+  "category": "Dairy, Eggs & Alternatives",
+  "sku": "02500332",
+  "product_name": "Ísey skyr vanilla 500g",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Ísey skyr"
+ },
+ {
+  "item_id": 11,
+  "name": "AB-mjólk",
+  "category": "Dairy, Eggs & Alternatives",
+  "sku": "02500059",
+  "product_name": "MS ab mjólk",
+  "unit": "LTR",
+  "charged_by_weight": false,
+  "brand": "MS"
+ },
+ {
+  "item_id": 12,
+  "name": "Standard fruit yogurt",
+  "category": "Dairy, Eggs & Alternatives",
+  "sku": "100266869",
+  "product_name": "MS óskajógúrt m/blönduðum ávöxtum",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "MS"
+ },
+ {
+  "item_id": 13,
+  "name": "Smjör (traditional Icelandic butter)",
+  "category": "Dairy, Eggs & Alternatives",
+  "sku": "02400069",
+  "product_name": "MS smjör 500gr",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "MS"
+ },
+ {
+  "item_id": 14,
+  "name": "Smjörvi (spreadable butter)",
+  "category": "Dairy, Eggs & Alternatives",
+  "sku": "100216553",
+  "product_name": "Smjörvi klassískur 400 gr",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Smjörvi"
+ },
+ {
+  "item_id": 15,
+  "name": "Rjómi (heavy whipping cream)",
+  "category": "Dairy, Eggs & Alternatives",
+  "sku": "02500091",
+  "product_name": "MS rjómi 250 ml",
+  "unit": "LTR",
+  "charged_by_weight": false,
+  "brand": "MS"
+ },
+ {
+  "item_id": 16,
+  "name": "Kaffirjómi (coffee cream)",
+  "category": "Dairy, Eggs & Alternatives",
+  "sku": "02500076",
+  "product_name": "MS kaffirjómi",
+  "unit": "LTR",
+  "charged_by_weight": false,
+  "brand": "MS"
+ },
+ {
+  "item_id": 17,
+  "name": "Eggs (Standard 10-pack)",
+  "category": "Dairy, Eggs & Alternatives",
+  "sku": "100250258",
+  "product_name": "Nesbú hamingjuegg 10stk",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Nesbú"
+ },
+ {
+  "item_id": 18,
+  "name": "Eggs (Free-range 10-pack)",
+  "category": "Dairy, Eggs & Alternatives",
+  "sku": "100227566",
+  "product_name": "Nesbú lífræn egg 10stk",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Nesbú"
+ },
+ {
+  "item_id": 19,
+  "name": "Lambalæri (leg of lamb)",
+  "category": "Meat & Poultry",
+  "sku": "100132054",
+  "product_name": "Goða lambalæri frosið",
+  "unit": "KG",
+  "charged_by_weight": true,
+  "brand": "Goða"
+ },
+ {
+  "item_id": 20,
+  "name": "Lambakótilettur (chops)",
+  "category": "Meat & Poultry",
+  "sku": "00201405",
+  "product_name": "Kjötborð lambakótilettur",
+  "unit": "KG",
+  "charged_by_weight": true,
+  "brand": "Kjötborð"
+ },
+ {
+  "item_id": 21,
+  "name": "Lambahakk (minced lamb)",
+  "category": "Meat & Poultry",
+  "sku": "100236974",
+  "product_name": "Ódýrt lambahakk vacuumpakkað",
+  "unit": "KG",
+  "charged_by_weight": true,
+  "brand": "Ódýrt"
+ },
+ {
+  "item_id": 22,
+  "name": "Nautahakk (minced beef, 10-12% fat)",
+  "category": "Meat & Poultry",
+  "sku": "100227558",
+  "product_name": "Ódýrt Ungnautahakk",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Ódýrt"
+ },
+ {
+  "item_id": 23,
+  "name": "Gúllas (goulash cuts)",
+  "category": "Meat & Poultry",
+  "sku": "00201535",
+  "product_name": "Kjötborð ungnautagúllas",
+  "unit": "KG",
+  "charged_by_weight": true,
+  "brand": "Kjötborð"
+ },
+ {
+  "item_id": 24,
+  "name": "Ribeye steak",
+  "category": "Meat & Poultry",
+  "sku": "00201551",
+  "product_name": "Kjötborð ungnautaribeye",
+  "unit": "KG",
+  "charged_by_weight": true,
+  "brand": "Kjötborð"
+ },
+ {
+  "item_id": 25,
+  "name": "Grísakótilettur (pork chops)",
+  "category": "Meat & Poultry",
+  "sku": "00201466",
+  "product_name": "Kjötborð lúxus grísakótilettur úrbeinaðar",
+  "unit": "KG",
+  "charged_by_weight": true,
+  "brand": "Kjötborð"
+ },
+ {
+  "item_id": 26,
+  "name": "Beikon (bacon)",
+  "category": "Meat & Poultry",
+  "sku": "100253020",
+  "product_name": "Stjörnugrís beikon",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Stjörnugrís"
+ },
+ {
+  "item_id": 27,
+  "name": "Hakk (mixed pork/beef mince)",
+  "category": "Meat & Poultry",
+  "sku": "100267435",
+  "product_name": "Ódýrt blandað hakk 60/40",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Ódýrt"
+ },
+ {
+  "item_id": 28,
+  "name": "Whole chicken",
+  "category": "Meat & Poultry",
+  "sku": "100244847",
+  "product_name": "Ódýrt kjúklingur heill",
+  "unit": "KG",
+  "charged_by_weight": true,
+  "brand": "Ódýrt"
+ },
+ {
+  "item_id": 29,
+  "name": "Chicken breasts",
+  "category": "Meat & Poultry",
+  "sku": "100244878",
+  "product_name": "Ódýrt kjúklingabringur",
+  "unit": "KG",
+  "charged_by_weight": true,
+  "brand": "Ódýrt"
+ },
+ {
+  "item_id": 30,
+  "name": "Chicken thighs",
+  "category": "Meat & Poultry",
+  "sku": "100261708",
+  "product_name": "Ódýrt kjúklingalæri úrbeinuð 100%",
+  "unit": "KG",
+  "charged_by_weight": true,
+  "brand": "Ódýrt"
+ },
+ {
+  "item_id": 31,
+  "name": "SS Pylsur (Icelandic hot dogs)",
+  "category": "Meat & Poultry",
+  "sku": "100151785",
+  "product_name": "SS vínarpylsur 5 stk",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "SS"
+ },
+ {
+  "item_id": 32,
+  "name": "Hangikjöt (smoked lamb slices)",
+  "category": "Meat & Poultry",
+  "sku": "100198410",
+  "product_name": "SS hangiálegg í sneiðum",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "SS"
+ },
+ {
+  "item_id": 33,
+  "name": "Pepperoni slices",
+  "category": "Meat & Poultry",
+  "sku": "100198422",
+  "product_name": "SS pepperoni í sneiðum",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "SS"
+ },
+ {
+  "item_id": 34,
+  "name": "Heilhveitibrauð (whole wheat loaf)",
+  "category": "Bread, Grains & Baking",
+  "sku": "100203530",
+  "product_name": "Myllu lífskorn heilt hveitikorn og rúgur",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Myllu"
+ },
+ {
+  "item_id": 35,
+  "name": "Rúgbrauð (dense rye bread)",
+  "category": "Bread, Grains & Baking",
+  "sku": "02200222",
+  "product_name": "Myllu seytt rúgbrauð",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Myllu"
+ },
+ {
+  "item_id": 36,
+  "name": "Heimilisbrauð (standard white loaf)",
+  "category": "Bread, Grains & Baking",
+  "sku": "02201071",
+  "product_name": "Myllu heimilisbrauð hálft",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Myllu"
+ },
+ {
+  "item_id": 37,
+  "name": "Flatkökur (traditional rye flatbread)",
+  "category": "Bread, Grains & Baking",
+  "sku": "100196540",
+  "product_name": "Ódýrt flatkökur",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Ódýrt"
+ },
+ {
+  "item_id": 38,
+  "name": "Hrökkbrauð (crispbread)",
+  "category": "Bread, Grains & Baking",
+  "sku": "02100141",
+  "product_name": "Finn Crisp original",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Finn Crisp"
+ },
+ {
+  "item_id": 39,
+  "name": "Ritz crackers",
+  "category": "Bread, Grains & Baking",
+  "sku": "02100098",
+  "product_name": "Ritz saltkex",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Ritz"
+ },
+ {
+  "item_id": 40,
+  "name": "Hafragrautur (rolled oats)",
+  "category": "Bread, Grains & Baking",
+  "sku": "100249695",
+  "product_name": "Ota haframjöl 1,8kg",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Ota"
+ },
+ {
+  "item_id": 41,
+  "name": "Cheerios",
+  "category": "Bread, Grains & Baking",
+  "sku": "100247973",
+  "product_name": "Cheerios tvenna",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Cheerios"
+ },
+ {
+  "item_id": 42,
+  "name": "Corn Flakes",
+  "category": "Bread, Grains & Baking",
+  "sku": "05400182",
+  "product_name": "Kelloggs cornflakes 1kg",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Kelloggs"
+ },
+ {
+  "item_id": 43,
+  "name": "Spaghetti",
+  "category": "Bread, Grains & Baking",
+  "sku": "100243655",
+  "product_name": "Rummo spaghetti",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Rummo"
+ },
+ {
+  "item_id": 44,
+  "name": "Penne",
+  "category": "Bread, Grains & Baking",
+  "sku": "100243657",
+  "product_name": "Rummo penne",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Rummo"
+ },
+ {
+  "item_id": 45,
+  "name": "Basmati rice",
+  "category": "Bread, Grains & Baking",
+  "sku": "100217307",
+  "product_name": "Grön Balance hrísgrjón basmati",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Grön Balance"
+ },
+ {
+  "item_id": 46,
+  "name": "Hveiti (standard wheat flour)",
+  "category": "Bread, Grains & Baking",
+  "sku": "05300024",
+  "product_name": "Kornax hveiti",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Kornax"
+ },
+ {
+  "item_id": 47,
+  "name": "Sykur (white sugar)",
+  "category": "Bread, Grains & Baking",
+  "sku": "100228940",
+  "product_name": "First Price sykur",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "First Price"
+ },
+ {
+  "item_id": 48,
+  "name": "Baking powder",
+  "category": "Bread, Grains & Baking",
+  "sku": "02000025",
+  "product_name": "Royal lyftiduft 200gr",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Royal"
+ },
+ {
+  "item_id": 49,
+  "name": "Bananas",
+  "category": "Fruits & Vegetables",
+  "sku": "100253786",
+  "product_name": "Bananar",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": null
+ },
+ {
+  "item_id": 50,
+  "name": "Apples (Gala or Pink Lady)",
+  "category": "Fruits & Vegetables",
+  "sku": "100235870",
+  "product_name": "Melinda gala epli",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Melinda"
+ },
+ {
+  "item_id": 51,
+  "name": "Oranges",
+  "category": "Fruits & Vegetables",
+  "sku": "100224354",
+  "product_name": "Bollo appelsínur",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Bollo"
+ },
+ {
+  "item_id": 52,
+  "name": "Green grapes",
+  "category": "Fruits & Vegetables",
+  "sku": "00900369",
+  "product_name": "Græn vínber",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": null
+ },
+ {
+  "item_id": 53,
+  "name": "Pears",
+  "category": "Fruits & Vegetables",
+  "sku": "100124705",
+  "product_name": "Perur ávaxtamarkaður",
+  "unit": "STK",
+  "charged_by_weight": false,
+  "brand": null
+ },
+ {
+  "item_id": 54,
+  "name": "Lemons",
+  "category": "Fruits & Vegetables",
+  "sku": "100253498",
+  "product_name": "sítrónur",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": null
+ },
+ {
+  "item_id": 55,
+  "name": "Icelandic potatoes",
+  "category": "Fruits & Vegetables",
+  "sku": "100248244",
+  "product_name": "Nýjar íslenskar kartöflur 1000g",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": null
+ },
+ {
+  "item_id": 56,
+  "name": "Tomatoes",
+  "category": "Fruits & Vegetables",
+  "sku": "100217373",
+  "product_name": "Sólskins tómatar",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Sólskins"
+ },
+ {
+  "item_id": 57,
+  "name": "Cucumber",
+  "category": "Fruits & Vegetables",
+  "sku": "100092615",
+  "product_name": "Agúrkur",
+  "unit": "STK",
+  "charged_by_weight": false,
+  "brand": null
+ },
+ {
+  "item_id": 58,
+  "name": "Bell peppers (mixed colors)",
+  "category": "Fruits & Vegetables",
+  "sku": "100253122",
+  "product_name": "paprika rauð",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": null
+ },
+ {
+  "item_id": 59,
+  "name": "Yellow onions",
+  "category": "Fruits & Vegetables",
+  "sku": "100204644",
+  "product_name": "Laukur 4 stk",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": null
+ },
+ {
+  "item_id": 60,
+  "name": "Carrots",
+  "category": "Fruits & Vegetables",
+  "sku": "100204793",
+  "product_name": "Grön Balance gulrætur",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Grön Balance"
+ },
+ {
+  "item_id": 61,
+  "name": "Iceberg lettuce",
+  "category": "Fruits & Vegetables",
+  "sku": "100113126",
+  "product_name": "T&A romain salat",
+  "unit": "STK",
+  "charged_by_weight": false,
+  "brand": "T&A"
+ },
+ {
+  "item_id": 62,
+  "name": "Broccoli",
+  "category": "Fruits & Vegetables",
+  "sku": "100237822",
+  "product_name": "brokkólí",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": null
+ },
+ {
+  "item_id": 63,
+  "name": "Frozen mixed berries",
+  "category": "Fruits & Vegetables",
+  "sku": "100265371",
+  "product_name": "Ódýrt berjablanda frosin 1kg",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Ódýrt"
+ },
+ {
+  "item_id": 64,
+  "name": "Frozen peas",
+  "category": "Fruits & Vegetables",
+  "sku": "100252397",
+  "product_name": "First Price grænar baunir 700g",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "First Price"
+ },
+ {
+  "item_id": 65,
+  "name": "Frozen vegetable mix",
+  "category": "Fruits & Vegetables",
+  "sku": "100253638",
+  "product_name": "Gestus Grænmetisblanda",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Gestus"
+ },
+ {
+  "item_id": 66,
+  "name": "French fries",
+  "category": "Fruits & Vegetables",
+  "sku": "100270210",
+  "product_name": "Koffmann's franskar classic",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Koffmann's"
+ },
+ {
+  "item_id": 67,
+  "name": "Canned diced tomatoes",
+  "category": "Fruits & Vegetables",
+  "sku": "100235382",
+  "product_name": "Mutti tómatar polpa hakkaðir",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Mutti"
+ },
+ {
+  "item_id": 68,
+  "name": "Baked beans",
+  "category": "Fruits & Vegetables",
+  "sku": "05100008",
+  "product_name": "Heinz bakaðar baunir",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Heinz"
+ },
+ {
+  "item_id": 69,
+  "name": "Canned sweet corn",
+  "category": "Fruits & Vegetables",
+  "sku": "100256217",
+  "product_name": "Grön Balance maískorn",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Grön Balance"
+ },
+ {
+  "item_id": 70,
+  "name": "Pickled red cabbage",
+  "category": "Fruits & Vegetables",
+  "sku": "100253542",
+  "product_name": "rauðkál",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": null
+ },
+ {
+  "item_id": 71,
+  "name": "Þorskur (Cod fillets)",
+  "category": "Fish & Seafood",
+  "sku": "100255254",
+  "product_name": "Krónu harðfiskur bitafiskur þorskur",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Krónu"
+ },
+ {
+  "item_id": 72,
+  "name": "Ýsa (Haddock fillets)",
+  "category": "Fish & Seafood",
+  "sku": "100267997",
+  "product_name": "Fiskverzlun Hafliða ýsubitar roð- og beinlausir",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Fiskverzlun Hafliða"
+ },
+ {
+  "item_id": 73,
+  "name": "Lax (Salmon fillets)",
+  "category": "Fish & Seafood",
+  "sku": "100268095",
+  "product_name": "Fiskverzlun Hafliða premium lax",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Fiskverzlun Hafliða"
+ },
+ {
+  "item_id": 74,
+  "name": "Tuna in oil",
+  "category": "Fish & Seafood",
+  "sku": "05200081",
+  "product_name": "Ora túnfiskur í olíu",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Ora"
+ },
+ {
+  "item_id": 75,
+  "name": "Tuna in water",
+  "category": "Fish & Seafood",
+  "sku": "05200079",
+  "product_name": "Ora túnfiskur í vatni",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Ora"
+ },
+ {
+  "item_id": 76,
+  "name": "Harðfiskur (dried fish chunks)",
+  "category": "Fish & Seafood",
+  "sku": "100261676",
+  "product_name": "Krónu harðfiskur í sneiðum ýsa",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Krónu"
+ },
+ {
+  "item_id": 77,
+  "name": "Kavíar (cod roe paste)",
+  "category": "Fish & Seafood",
+  "sku": "05200017",
+  "product_name": "Mills kavíar 185 gr.",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Mills"
+ },
+ {
+  "item_id": 78,
+  "name": "Prins Póló",
+  "category": "Snacks & Sweets",
+  "sku": "100221088",
+  "product_name": "Prince Polo classic XXL",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Prince Polo"
+ },
+ {
+  "item_id": 79,
+  "name": "Nóa Siríus Rjómasúkkulaði",
+  "category": "Snacks & Sweets",
+  "sku": "04600325",
+  "product_name": "Nóa rjómasúkkulaði hreint",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Nóa"
+ },
+ {
+  "item_id": 80,
+  "name": "Hraun piece",
+  "category": "Snacks & Sweets",
+  "sku": "05000048",
+  "product_name": "Góu hraunbitar",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Góu"
+ },
+ {
+  "item_id": 81,
+  "name": "Opal (lozenges)",
+  "category": "Snacks & Sweets",
+  "sku": "100268433",
+  "product_name": "Nóa opal grænn sykurlaus poki",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Nóa"
+ },
+ {
+  "item_id": 82,
+  "name": "Lakkrísrör (licorice straws)",
+  "category": "Snacks & Sweets",
+  "sku": "100251694",
+  "product_name": "Völu gammeldags lakkrís",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Völu"
+ },
+ {
+  "item_id": 83,
+  "name": "Standard salted potato chips",
+  "category": "Snacks & Sweets",
+  "sku": "100253402",
+  "product_name": "Pringles original 185g",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Pringles"
+ },
+ {
+  "item_id": 84,
+  "name": "Doritos",
+  "category": "Snacks & Sweets",
+  "sku": "100210871",
+  "product_name": "Doritos sweet chili",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Doritos"
+ },
+ {
+  "item_id": 85,
+  "name": "Snúður (cinnamon roll with icing)",
+  "category": "Snacks & Sweets",
+  "sku": "100248126",
+  "product_name": "Gæðabakstur Snúður með bleikum glassúr",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Gæðabakstur"
+ },
+ {
+  "item_id": 86,
+  "name": "Kleinur (twisted doughnuts)",
+  "category": "Snacks & Sweets",
+  "sku": "02207118",
+  "product_name": "Gæðabakstur kleinur",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Gæðabakstur"
+ },
+ {
+  "item_id": 87,
+  "name": "Ground coffee",
+  "category": "Pantry Sauces & Condiments",
+  "sku": "100216856",
+  "product_name": "Te og kaffi french roast malað",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Te og kaffi"
+ },
+ {
+  "item_id": 88,
+  "name": "Nespresso-compatible pods",
+  "category": "Pantry Sauces & Condiments",
+  "sku": "100271837",
+  "product_name": "Nespresso ARPEGGIO (9)",
+  "unit": "STK",
+  "charged_by_weight": false,
+  "brand": "Nespresso"
+ },
+ {
+  "item_id": 89,
+  "name": "Black tea bags",
+  "category": "Pantry Sauces & Condiments",
+  "sku": "100254517",
+  "product_name": "Pickwick te earl grey",
+  "unit": "STK",
+  "charged_by_weight": false,
+  "brand": "Pickwick"
+ },
+ {
+  "item_id": 90,
+  "name": "Kokteilsósa (Icelandic fry sauce)",
+  "category": "Pantry Sauces & Condiments",
+  "sku": "100263172",
+  "product_name": "Ódýrt kokteilsósa",
+  "unit": "LTR",
+  "charged_by_weight": false,
+  "brand": "Ódýrt"
+ },
+ {
+  "item_id": 91,
+  "name": "Tomato ketchup",
+  "category": "Pantry Sauces & Condiments",
+  "sku": "100222200",
+  "product_name": "Heinz tómatsósa top down",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Heinz"
+ },
+ {
+  "item_id": 92,
+  "name": "Extra virgin olive oil",
+  "category": "Pantry Sauces & Condiments",
+  "sku": "100201669",
+  "product_name": "Grön Balance ólífuolía extra virgin",
+  "unit": "LTR",
+  "charged_by_weight": false,
+  "brand": "Grön Balance"
+ },
+ {
+  "item_id": 93,
+  "name": "Canola/Rapeseed oil",
+  "category": "Pantry Sauces & Condiments",
+  "sku": "100179735",
+  "product_name": "First Price repjuolía",
+  "unit": "LTR",
+  "charged_by_weight": false,
+  "brand": "First Price"
+ },
+ {
+  "item_id": 94,
+  "name": "Flögusalt (flaky sea salt)",
+  "category": "Pantry Sauces & Condiments",
+  "sku": "100206608",
+  "product_name": "Saltverk flögusalt",
+  "unit": "KG",
+  "charged_by_weight": false,
+  "brand": "Saltverk"
+ },
+ {
+  "item_id": 95,
+  "name": "Egils Appelsín (orange soda)",
+  "category": "Non-Alcoholic Beverages",
+  "sku": "100259294",
+  "product_name": "Egils appelsín 6pk",
+  "unit": "LTR",
+  "charged_by_weight": false,
+  "brand": "Egils"
+ },
+ {
+  "item_id": 96,
+  "name": "Coca-Cola (regular, 2L)",
+  "category": "Non-Alcoholic Beverages",
+  "sku": "100235535",
+  "product_name": "Coca Cola 6pk",
+  "unit": "LTR",
+  "charged_by_weight": false,
+  "brand": "Coca Cola"
+ },
+ {
+  "item_id": 97,
+  "name": "Pepsi Max (2L)",
+  "category": "Non-Alcoholic Beverages",
+  "sku": "100254826",
+  "product_name": "Pepsi max 6pk",
+  "unit": "LTR",
+  "charged_by_weight": false,
+  "brand": "Pepsi"
+ },
+ {
+  "item_id": 98,
+  "name": "Orange juice (1L carton)",
+  "category": "Non-Alcoholic Beverages",
+  "sku": "100213675",
+  "product_name": "Sól appelsínusafi",
+  "unit": "LTR",
+  "charged_by_weight": false,
+  "brand": "Sól"
+ },
+ {
+  "item_id": 99,
+  "name": "Apple juice (1L carton)",
+  "category": "Non-Alcoholic Beverages",
+  "sku": "03300416",
+  "product_name": "Floridana eplasafi 3x250 ml",
+  "unit": "LTR",
+  "charged_by_weight": false,
+  "brand": "Floridana"
+ },
+ {
+  "item_id": 100,
+  "name": "Kristall (sparkling water, unflavored)",
+  "category": "Non-Alcoholic Beverages",
+  "sku": "100118130",
+  "product_name": "Kristall án bragðefna 2L",
+  "unit": "LTR",
+  "charged_by_weight": false,
+  "brand": "Kristall"
+ }
+]

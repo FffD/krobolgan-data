@@ -1,0 +1,20 @@
+{
+ "item_id": 8,
+ "name": "Feta cheese in oil",
+ "category": "Dairy, Eggs & Alternatives",
+ "sku": "02400184",
+ "product_name": "Dala salatostur í kryddolíu",
+ "unit": "KG",
+ "charged_by_weight": false,
+ "observations": [
+  {
+   "date": "2026-08-23",
+   "status": "ok",
+   "shelf_price": 876,
+   "effective_price": 876,
+   "on_sale": false,
+   "unit_price": 2.7,
+   "temporary_shortage": false
+  }
+ ]
+}

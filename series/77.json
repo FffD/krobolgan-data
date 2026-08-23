@@ -1,0 +1,20 @@
+{
+ "item_id": 77,
+ "name": "Kavíar (cod roe paste)",
+ "category": "Fish & Seafood",
+ "sku": "05200017",
+ "product_name": "Mills kavíar 185 gr.",
+ "unit": "KG",
+ "charged_by_weight": false,
+ "observations": [
+  {
+   "date": "2026-08-23",
+   "status": "ok",
+   "shelf_price": 670,
+   "effective_price": 670,
+   "on_sale": false,
+   "unit_price": 3.62,
+   "temporary_shortage": false
+  }
+ ]
+}

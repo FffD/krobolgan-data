@@ -1,0 +1,20 @@
+{
+ "item_id": 48,
+ "name": "Baking powder",
+ "category": "Bread, Grains & Baking",
+ "sku": "02000025",
+ "product_name": "Royal lyftiduft 200gr",
+ "unit": "KG",
+ "charged_by_weight": false,
+ "observations": [
+  {
+   "date": "2026-08-23",
+   "status": "ok",
+   "shelf_price": 348,
+   "effective_price": 348,
+   "on_sale": false,
+   "unit_price": 1.74,
+   "temporary_shortage": false
+  }
+ ]
+}

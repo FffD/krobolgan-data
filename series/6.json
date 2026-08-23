@@ -1,0 +1,20 @@
+{
+ "item_id": 6,
+ "name": "Gouda",
+ "category": "Dairy, Eggs & Alternatives",
+ "sku": "100240439",
+ "product_name": "MS gouda 17% í sneiðum",
+ "unit": "KG",
+ "charged_by_weight": false,
+ "observations": [
+  {
+   "date": "2026-08-23",
+   "status": "ok",
+   "shelf_price": 1130,
+   "effective_price": 1130,
+   "on_sale": false,
+   "unit_price": 3.42,
+   "temporary_shortage": false
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "schema_version": 1,
+ "generated_at": "2026-08-23T12:56:21+00:00",
+ "source": "Kronan Public API (api.kronan.is)",
+ "currency": "ISK",
+ "first_date": "2026-08-23",
+ "last_date": "2026-08-23",
+ "observation_days": 1,
+ "item_count": 100,
+ "observation_count": 100,
+ "files": {
+  "basket": "basket.json",
+  "latest": "latest.json",
+  "series": "series/<item_id>.json",
+  "prices_csv": "prices.csv"
+ }
+}

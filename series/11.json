@@ -1,0 +1,20 @@
+{
+ "item_id": 11,
+ "name": "AB-mjólk",
+ "category": "Dairy, Eggs & Alternatives",
+ "sku": "02500059",
+ "product_name": "MS ab mjólk",
+ "unit": "LTR",
+ "charged_by_weight": false,
+ "observations": [
+  {
+   "date": "2026-08-23",
+   "status": "ok",
+   "shelf_price": 534,
+   "effective_price": 534,
+   "on_sale": false,
+   "unit_price": 534.0,
+   "temporary_shortage": false
+  }
+ ]
+}

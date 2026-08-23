@@ -1,0 +1,20 @@
+{
+ "item_id": 90,
+ "name": "Kokteilsósa (Icelandic fry sauce)",
+ "category": "Pantry Sauces & Condiments",
+ "sku": "100263172",
+ "product_name": "Ódýrt kokteilsósa",
+ "unit": "LTR",
+ "charged_by_weight": false,
+ "observations": [
+  {
+   "date": "2026-08-23",
+   "status": "ok",
+   "shelf_price": 265,
+   "effective_price": 265,
+   "on_sale": false,
+   "unit_price": 0.88,
+   "temporary_shortage": false
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "item_id": 96,
+ "name": "Coca-Cola (regular, 2L)",
+ "category": "Non-Alcoholic Beverages",
+ "sku": "100235535",
+ "product_name": "Coca Cola 6pk",
+ "unit": "LTR",
+ "charged_by_weight": false,
+ "observations": [
+  {
+   "date": "2026-08-23",
+   "status": "ok",
+   "shelf_price": 750,
+   "effective_price": 750,
+   "on_sale": false,
+   "unit_price": 378.79,
+   "temporary_shortage": false
+  }
+ ]
+}

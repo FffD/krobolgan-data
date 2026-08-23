@@ -1,0 +1,20 @@
+{
+ "item_id": 79,
+ "name": "Nóa Siríus Rjómasúkkulaði",
+ "category": "Snacks & Sweets",
+ "sku": "04600325",
+ "product_name": "Nóa rjómasúkkulaði hreint",
+ "unit": "KG",
+ "charged_by_weight": false,
+ "observations": [
+  {
+   "date": "2026-08-23",
+   "status": "ok",
+   "shelf_price": 535,
+   "effective_price": 535,
+   "on_sale": false,
+   "unit_price": 3.57,
+   "temporary_shortage": false
+  }
+ ]
+}

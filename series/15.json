@@ -1,0 +1,20 @@
+{
+ "item_id": 15,
+ "name": "Rjómi (heavy whipping cream)",
+ "category": "Dairy, Eggs & Alternatives",
+ "sku": "02500091",
+ "product_name": "MS rjómi 250 ml",
+ "unit": "LTR",
+ "charged_by_weight": false,
+ "observations": [
+  {
+   "date": "2026-08-23",
+   "status": "ok",
+   "shelf_price": 416,
+   "effective_price": 416,
+   "on_sale": false,
+   "unit_price": 1.66,
+   "temporary_shortage": false
+  }
+ ]
+}

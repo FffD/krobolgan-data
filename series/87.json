@@ -1,0 +1,20 @@
+{
+ "item_id": 87,
+ "name": "Ground coffee",
+ "category": "Pantry Sauces & Condiments",
+ "sku": "100216856",
+ "product_name": "Te og kaffi french roast malað",
+ "unit": "KG",
+ "charged_by_weight": false,
+ "observations": [
+  {
+   "date": "2026-08-23",
+   "status": "ok",
+   "shelf_price": 1499,
+   "effective_price": 1499,
+   "on_sale": false,
+   "unit_price": 3.75,
+   "temporary_shortage": false
+  }
+ ]
+}

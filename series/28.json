@@ -1,0 +1,20 @@
+{
+ "item_id": 28,
+ "name": "Whole chicken",
+ "category": "Meat & Poultry",
+ "sku": "100244847",
+ "product_name": "Ódýrt kjúklingur heill",
+ "unit": "KG",
+ "charged_by_weight": true,
+ "observations": [
+  {
+   "date": "2026-08-23",
+   "status": "ok",
+   "shelf_price": 2044,
+   "effective_price": 1854,
+   "on_sale": true,
+   "unit_price": 975.98,
+   "temporary_shortage": false
+  }
+ ]
+}

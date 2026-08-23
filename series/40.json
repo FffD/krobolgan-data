@@ -1,0 +1,20 @@
+{
+ "item_id": 40,
+ "name": "Hafragrautur (rolled oats)",
+ "category": "Bread, Grains & Baking",
+ "sku": "100249695",
+ "product_name": "Ota haframjöl 1,8kg",
+ "unit": "KG",
+ "charged_by_weight": false,
+ "observations": [
+  {
+   "date": "2026-08-23",
+   "status": "ok",
+   "shelf_price": 730,
+   "effective_price": 730,
+   "on_sale": false,
+   "unit_price": 0.41,
+   "temporary_shortage": false
+  }
+ ]
+}

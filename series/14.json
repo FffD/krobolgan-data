@@ -1,0 +1,20 @@
+{
+ "item_id": 14,
+ "name": "Smjörvi (spreadable butter)",
+ "category": "Dairy, Eggs & Alternatives",
+ "sku": "100216553",
+ "product_name": "Smjörvi klassískur 400 gr",
+ "unit": "KG",
+ "charged_by_weight": false,
+ "observations": [
+  {
+   "date": "2026-08-23",
+   "status": "ok",
+   "shelf_price": 855,
+   "effective_price": 855,
+   "on_sale": false,
+   "unit_price": 2.14,
+   "temporary_shortage": false
+  }
+ ]
+}

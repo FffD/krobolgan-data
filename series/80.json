@@ -1,0 +1,20 @@
+{
+ "item_id": 80,
+ "name": "Hraun piece",
+ "category": "Snacks & Sweets",
+ "sku": "05000048",
+ "product_name": "Góu hraunbitar",
+ "unit": "KG",
+ "charged_by_weight": false,
+ "observations": [
+  {
+   "date": "2026-08-23",
+   "status": "ok",
+   "shelf_price": 480,
+   "effective_price": 480,
+   "on_sale": false,
+   "unit_price": 2.4,
+   "temporary_shortage": false
+  }
+ ]
+}

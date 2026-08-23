@@ -1,0 +1,20 @@
+{
+ "item_id": 63,
+ "name": "Frozen mixed berries",
+ "category": "Fruits & Vegetables",
+ "sku": "100265371",
+ "product_name": "Ódýrt berjablanda frosin 1kg",
+ "unit": "KG",
+ "charged_by_weight": false,
+ "observations": [
+  {
+   "date": "2026-08-23",
+   "status": "ok",
+   "shelf_price": 780,
+   "effective_price": 780,
+   "on_sale": false,
+   "unit_price": 780.0,
+   "temporary_shortage": false
+  }
+ ]
+}

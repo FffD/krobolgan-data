@@ -1,0 +1,20 @@
+{
+ "item_id": 71,
+ "name": "Þorskur (Cod fillets)",
+ "category": "Fish & Seafood",
+ "sku": "100255254",
+ "product_name": "Krónu harðfiskur bitafiskur þorskur",
+ "unit": "KG",
+ "charged_by_weight": false,
+ "observations": [
+  {
+   "date": "2026-08-23",
+   "status": "ok",
+   "shelf_price": 2499,
+   "effective_price": 2499,
+   "on_sale": false,
+   "unit_price": 20.82,
+   "temporary_shortage": false
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "item_id": 91,
+ "name": "Tomato ketchup",
+ "category": "Pantry Sauces & Condiments",
+ "sku": "100222200",
+ "product_name": "Heinz tómatsósa top down",
+ "unit": "KG",
+ "charged_by_weight": false,
+ "observations": [
+  {
+   "date": "2026-08-23",
+   "status": "ok",
+   "shelf_price": 515,
+   "effective_price": 515,
+   "on_sale": false,
+   "unit_price": 0.9,
+   "temporary_shortage": false
+  }
+ ]
+}

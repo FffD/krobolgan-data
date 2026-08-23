@@ -1,0 +1,20 @@
+{
+ "item_id": 82,
+ "name": "Lakkrísrör (licorice straws)",
+ "category": "Snacks & Sweets",
+ "sku": "100251694",
+ "product_name": "Völu gammeldags lakkrís",
+ "unit": "KG",
+ "charged_by_weight": false,
+ "observations": [
+  {
+   "date": "2026-08-23",
+   "status": "ok",
+   "shelf_price": 315,
+   "effective_price": 315,
+   "on_sale": false,
+   "unit_price": 1.57,
+   "temporary_shortage": false
+  }
+ ]
+}

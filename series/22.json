@@ -1,0 +1,20 @@
+{
+ "item_id": 22,
+ "name": "Nautahakk (minced beef, 10-12% fat)",
+ "category": "Meat & Poultry",
+ "sku": "100227558",
+ "product_name": "Ódýrt Ungnautahakk",
+ "unit": "KG",
+ "charged_by_weight": false,
+ "observations": [
+  {
+   "date": "2026-08-23",
+   "status": "ok",
+   "shelf_price": 1686,
+   "effective_price": 1686,
+   "on_sale": false,
+   "unit_price": 3.37,
+   "temporary_shortage": false
+  }
+ ]
+}

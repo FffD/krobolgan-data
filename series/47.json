@@ -1,0 +1,20 @@
+{
+ "item_id": 47,
+ "name": "Sykur (white sugar)",
+ "category": "Bread, Grains & Baking",
+ "sku": "100228940",
+ "product_name": "First Price sykur",
+ "unit": "KG",
+ "charged_by_weight": false,
+ "observations": [
+  {
+   "date": "2026-08-23",
+   "status": "ok",
+   "shelf_price": 176,
+   "effective_price": 176,
+   "on_sale": false,
+   "unit_price": 176.0,
+   "temporary_shortage": false
+  }
+ ]
+}

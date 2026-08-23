@@ -1,0 +1,20 @@
+{
+ "item_id": 65,
+ "name": "Frozen vegetable mix",
+ "category": "Fruits & Vegetables",
+ "sku": "100253638",
+ "product_name": "Gestus Grænmetisblanda",
+ "unit": "KG",
+ "charged_by_weight": false,
+ "observations": [
+  {
+   "date": "2026-08-23",
+   "status": "ok",
+   "shelf_price": 399,
+   "effective_price": 399,
+   "on_sale": false,
+   "unit_price": 0.8,
+   "temporary_shortage": false
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "item_id": 27,
+ "name": "Hakk (mixed pork/beef mince)",
+ "category": "Meat & Poultry",
+ "sku": "100267435",
+ "product_name": "Ódýrt blandað hakk 60/40",
+ "unit": "KG",
+ "charged_by_weight": false,
+ "observations": [
+  {
+   "date": "2026-08-23",
+   "status": "ok",
+   "shelf_price": 1199,
+   "effective_price": 1199,
+   "on_sale": false,
+   "unit_price": 2.4,
+   "temporary_shortage": false
+  }
+ ]
+}

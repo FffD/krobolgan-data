@@ -1,0 +1,20 @@
+{
+ "item_id": 52,
+ "name": "Green grapes",
+ "category": "Fruits & Vegetables",
+ "sku": "00900369",
+ "product_name": "Græn vínber",
+ "unit": "KG",
+ "charged_by_weight": false,
+ "observations": [
+  {
+   "date": "2026-08-23",
+   "status": "ok",
+   "shelf_price": 1339,
+   "effective_price": 1339,
+   "on_sale": false,
+   "unit_price": 1339.0,
+   "temporary_shortage": false
+  }
+ ]
+}

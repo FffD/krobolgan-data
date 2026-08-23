@@ -1,0 +1,20 @@
+{
+ "item_id": 31,
+ "name": "SS Pylsur (Icelandic hot dogs)",
+ "category": "Meat & Poultry",
+ "sku": "100151785",
+ "product_name": "SS vínarpylsur 5 stk",
+ "unit": "KG",
+ "charged_by_weight": false,
+ "observations": [
+  {
+   "date": "2026-08-23",
+   "status": "ok",
+   "shelf_price": 630,
+   "effective_price": 630,
+   "on_sale": false,
+   "unit_price": 2.25,
+   "temporary_shortage": false
+  }
+ ]
+}
