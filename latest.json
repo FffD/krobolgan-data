@@ -1,6 +1,6 @@
 {
- "observed_date": "2026-08-24",
- "generated_at": "2026-08-24T07:20:32+00:00",
+ "observed_date": "2026-08-25",
+ "generated_at": "2026-08-25T07:08:35+00:00",
  "items": [
   {
    "item_id": 1,
@@ -329,12 +329,12 @@
    "sku": "100236974",
    "product_name": "Ódýrt lambahakk vacuumpakkað",
    "status": "ok",
-   "shelf_price": 1559,
-   "effective_price": 1559,
+   "shelf_price": 1619,
+   "effective_price": 1619,
    "on_sale": false,
-   "unit_price": 2599.0,
+   "unit_price": 2699.0,
    "unit": "KG",
-   "pack_size": 0.5998,
+   "pack_size": 0.5999,
    "charged_by_weight": true,
    "temporary_shortage": false
   },
@@ -432,7 +432,7 @@
    "unit": "KG",
    "pack_size": 500.0,
    "charged_by_weight": false,
-   "temporary_shortage": false
+   "temporary_shortage": true
   },
   {
    "item_id": 28,
@@ -880,7 +880,7 @@
    "unit": "KG",
    "pack_size": 1000.0,
    "charged_by_weight": false,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 56,
@@ -992,7 +992,7 @@
    "unit": "KG",
    "pack_size": 500.0,
    "charged_by_weight": false,
-   "temporary_shortage": false
+   "temporary_shortage": true
   },
   {
    "item_id": 63,
@@ -1049,10 +1049,10 @@
    "sku": "100270210",
    "product_name": "Koffmann's franskar classic",
    "status": "ok",
-   "shelf_price": 898,
-   "effective_price": 898,
+   "shelf_price": 799,
+   "effective_price": 799,
    "on_sale": false,
-   "unit_price": 1.12,
+   "unit_price": 1.0,
    "unit": "KG",
    "pack_size": 800.0,
    "charged_by_weight": false,
