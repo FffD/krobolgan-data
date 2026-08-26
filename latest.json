@@ -1,6 +1,6 @@
 {
- "observed_date": "2026-08-25",
- "generated_at": "2026-08-25T07:08:35+00:00",
+ "observed_date": "2026-08-26",
+ "generated_at": "2026-08-26T07:09:18+00:00",
  "items": [
   {
    "item_id": 1,
@@ -288,7 +288,7 @@
    "unit": "KG",
    "pack_size": 630.0,
    "charged_by_weight": false,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 19,
@@ -432,7 +432,7 @@
    "unit": "KG",
    "pack_size": 500.0,
    "charged_by_weight": false,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 28,
@@ -480,7 +480,7 @@
    "unit": "KG",
    "pack_size": 0.6899,
    "charged_by_weight": true,
-   "temporary_shortage": false
+   "temporary_shortage": true
   },
   {
    "item_id": 31,
@@ -761,10 +761,10 @@
    "sku": "02000025",
    "product_name": "Royal lyftiduft 200gr",
    "status": "ok",
-   "shelf_price": 348,
-   "effective_price": 348,
+   "shelf_price": 356,
+   "effective_price": 356,
    "on_sale": false,
-   "unit_price": 1.74,
+   "unit_price": 1.78,
    "unit": "KG",
    "pack_size": 200.0,
    "charged_by_weight": false,
@@ -896,7 +896,7 @@
    "unit": "KG",
    "pack_size": 250.0,
    "charged_by_weight": false,
-   "temporary_shortage": false
+   "temporary_shortage": true
   },
   {
    "item_id": 57,
@@ -919,16 +919,16 @@
    "name": "Bell peppers (mixed colors)",
    "category": "Fruits & Vegetables",
    "sku": "100253122",
-   "product_name": "paprika rauð",
-   "status": "ok",
-   "shelf_price": 139,
-   "effective_price": 139,
-   "on_sale": false,
-   "unit_price": 0.69,
-   "unit": "KG",
-   "pack_size": 200.0,
-   "charged_by_weight": false,
-   "temporary_shortage": false
+   "product_name": null,
+   "status": "missing",
+   "shelf_price": null,
+   "effective_price": null,
+   "on_sale": null,
+   "unit_price": null,
+   "unit": null,
+   "pack_size": null,
+   "charged_by_weight": null,
+   "temporary_shortage": null
   },
   {
    "item_id": 59,

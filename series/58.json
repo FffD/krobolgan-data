@@ -3,9 +3,9 @@
  "name": "Bell peppers (mixed colors)",
  "category": "Fruits & Vegetables",
  "sku": "100253122",
- "product_name": "paprika rauð",
- "unit": "KG",
- "charged_by_weight": false,
+ "product_name": null,
+ "unit": null,
+ "charged_by_weight": null,
  "observations": [
   {
    "date": "2026-08-23",
@@ -33,6 +33,15 @@
    "on_sale": false,
    "unit_price": 0.69,
    "temporary_shortage": false
+  },
+  {
+   "date": "2026-08-26",
+   "status": "missing",
+   "shelf_price": null,
+   "effective_price": null,
+   "on_sale": null,
+   "unit_price": null,
+   "temporary_shortage": null
   }
  ]
 }
