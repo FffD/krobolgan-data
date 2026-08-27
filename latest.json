@@ -1,6 +1,6 @@
 {
- "observed_date": "2026-08-26",
- "generated_at": "2026-08-26T07:09:18+00:00",
+ "observed_date": "2026-08-27",
+ "generated_at": "2026-08-27T17:38:03+00:00",
  "items": [
   {
    "item_id": 1,
@@ -361,12 +361,12 @@
    "sku": "00201535",
    "product_name": "Kjötborð ungnautagúllas",
    "status": "ok",
-   "shelf_price": 3119,
-   "effective_price": 3119,
+   "shelf_price": 3359,
+   "effective_price": 3359,
    "on_sale": false,
    "unit_price": 4799.0,
    "unit": "KG",
-   "pack_size": 0.6499,
+   "pack_size": 0.6999,
    "charged_by_weight": true,
    "temporary_shortage": false
   },
@@ -442,9 +442,9 @@
    "product_name": "Ódýrt kjúklingur heill",
    "status": "ok",
    "shelf_price": 2044,
-   "effective_price": 1854,
-   "on_sale": true,
-   "unit_price": 975.98,
+   "effective_price": 2044,
+   "on_sale": false,
+   "unit_price": 1076.0,
    "unit": "KG",
    "pack_size": 1.8996,
    "charged_by_weight": true,
@@ -480,7 +480,7 @@
    "unit": "KG",
    "pack_size": 0.6899,
    "charged_by_weight": true,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 31,
@@ -871,16 +871,16 @@
    "name": "Icelandic potatoes",
    "category": "Fruits & Vegetables",
    "sku": "100248244",
-   "product_name": "Nýjar íslenskar kartöflur 1000g",
-   "status": "ok",
-   "shelf_price": 549,
-   "effective_price": 549,
-   "on_sale": false,
-   "unit_price": 0.55,
-   "unit": "KG",
-   "pack_size": 1000.0,
-   "charged_by_weight": false,
-   "temporary_shortage": false
+   "product_name": null,
+   "status": "missing",
+   "shelf_price": null,
+   "effective_price": null,
+   "on_sale": null,
+   "unit_price": null,
+   "unit": null,
+   "pack_size": null,
+   "charged_by_weight": null,
+   "temporary_shortage": null
   },
   {
    "item_id": 56,
@@ -896,7 +896,7 @@
    "unit": "KG",
    "pack_size": 250.0,
    "charged_by_weight": false,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 57,
@@ -919,16 +919,16 @@
    "name": "Bell peppers (mixed colors)",
    "category": "Fruits & Vegetables",
    "sku": "100253122",
-   "product_name": null,
-   "status": "missing",
-   "shelf_price": null,
-   "effective_price": null,
-   "on_sale": null,
-   "unit_price": null,
-   "unit": null,
-   "pack_size": null,
-   "charged_by_weight": null,
-   "temporary_shortage": null
+   "product_name": "paprika rauð",
+   "status": "ok",
+   "shelf_price": 139,
+   "effective_price": 139,
+   "on_sale": false,
+   "unit_price": 0.69,
+   "unit": "KG",
+   "pack_size": 200.0,
+   "charged_by_weight": false,
+   "temporary_shortage": false
   },
   {
    "item_id": 59,
@@ -992,7 +992,7 @@
    "unit": "KG",
    "pack_size": 500.0,
    "charged_by_weight": false,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 63,
