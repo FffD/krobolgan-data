@@ -1,6 +1,6 @@
 {
- "observed_date": "2026-09-02",
- "generated_at": "2026-09-02T11:18:45+00:00",
+ "observed_date": "2026-09-03",
+ "generated_at": "2026-09-03T11:14:17+00:00",
  "items": [
   {
    "item_id": 1,
@@ -432,7 +432,7 @@
    "unit": "KG",
    "pack_size": 500.0,
    "charged_by_weight": false,
-   "temporary_shortage": false
+   "temporary_shortage": true
   },
   {
    "item_id": 28,
@@ -458,9 +458,9 @@
    "product_name": "Ódýrt kjúklingabringur",
    "status": "ok",
    "shelf_price": 2243,
-   "effective_price": 2243,
-   "on_sale": false,
-   "unit_price": 2769.0,
+   "effective_price": 1862,
+   "on_sale": true,
+   "unit_price": 2298.65,
    "unit": "KG",
    "pack_size": 0.81,
    "charged_by_weight": true,
@@ -480,7 +480,7 @@
    "unit": "KG",
    "pack_size": 0.6899,
    "charged_by_weight": true,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 31,
@@ -617,10 +617,10 @@
    "sku": "02100098",
    "product_name": "Ritz saltkex",
    "status": "ok",
-   "shelf_price": 279,
-   "effective_price": 279,
+   "shelf_price": 286,
+   "effective_price": 286,
    "on_sale": false,
-   "unit_price": 1.4,
+   "unit_price": 1.43,
    "unit": "KG",
    "pack_size": 200.0,
    "charged_by_weight": false,
@@ -857,10 +857,10 @@
    "sku": "100253498",
    "product_name": "sítrónur",
    "status": "ok",
-   "shelf_price": 81,
-   "effective_price": 81,
+   "shelf_price": 99,
+   "effective_price": 99,
    "on_sale": false,
-   "unit_price": 0.62,
+   "unit_price": 0.76,
    "unit": "KG",
    "pack_size": 130.0,
    "charged_by_weight": false,
@@ -896,7 +896,7 @@
    "unit": "KG",
    "pack_size": 250.0,
    "charged_by_weight": false,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 57,
@@ -1008,7 +1008,7 @@
    "unit": "KG",
    "pack_size": 1.0,
    "charged_by_weight": false,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 64,
@@ -1120,7 +1120,7 @@
    "unit": "KG",
    "pack_size": 1600.0,
    "charged_by_weight": false,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 71,
@@ -1449,10 +1449,10 @@
    "sku": "100222200",
    "product_name": "Heinz tómatsósa top down",
    "status": "ok",
-   "shelf_price": 515,
-   "effective_price": 515,
+   "shelf_price": 530,
+   "effective_price": 530,
    "on_sale": false,
-   "unit_price": 0.9,
+   "unit_price": 0.93,
    "unit": "KG",
    "pack_size": 570.0,
    "charged_by_weight": false,
