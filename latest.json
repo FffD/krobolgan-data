@@ -1,6 +1,6 @@
 {
- "observed_date": "2026-09-03",
- "generated_at": "2026-09-03T11:14:17+00:00",
+ "observed_date": "2026-09-04",
+ "generated_at": "2026-09-04T11:18:03+00:00",
  "items": [
   {
    "item_id": 1,
@@ -57,10 +57,10 @@
    "sku": "100232448",
    "product_name": "Oatly  kalkbætt haframjólk",
    "status": "ok",
-   "shelf_price": 340,
-   "effective_price": 340,
+   "shelf_price": 346,
+   "effective_price": 346,
    "on_sale": false,
-   "unit_price": 340.0,
+   "unit_price": 346.0,
    "unit": "LTR",
    "pack_size": 1.0,
    "charged_by_weight": false,
@@ -432,7 +432,7 @@
    "unit": "KG",
    "pack_size": 500.0,
    "charged_by_weight": false,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 28,
@@ -896,7 +896,7 @@
    "unit": "KG",
    "pack_size": 250.0,
    "charged_by_weight": false,
-   "temporary_shortage": false
+   "temporary_shortage": true
   },
   {
    "item_id": 57,
