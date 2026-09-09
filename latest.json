@@ -1,6 +1,6 @@
 {
- "observed_date": "2026-09-08",
- "generated_at": "2026-09-08T11:19:02+00:00",
+ "observed_date": "2026-09-09",
+ "generated_at": "2026-09-09T11:23:30+00:00",
  "items": [
   {
    "item_id": 1,
@@ -281,10 +281,10 @@
    "sku": "100227566",
    "product_name": "Nesbú lífræn egg 10stk",
    "status": "ok",
-   "shelf_price": 1075,
-   "effective_price": 1075,
+   "shelf_price": 1039,
+   "effective_price": 1039,
    "on_sale": false,
-   "unit_price": 1.71,
+   "unit_price": 1.65,
    "unit": "KG",
    "pack_size": 630.0,
    "charged_by_weight": false,
@@ -400,7 +400,7 @@
    "unit": "KG",
    "pack_size": 0.6499,
    "charged_by_weight": true,
-   "temporary_shortage": false
+   "temporary_shortage": true
   },
   {
    "item_id": 26,
@@ -1225,10 +1225,10 @@
    "sku": "05200017",
    "product_name": "Mills kavíar 185 gr.",
    "status": "ok",
-   "shelf_price": 670,
-   "effective_price": 670,
+   "shelf_price": 684,
+   "effective_price": 684,
    "on_sale": false,
-   "unit_price": 3.62,
+   "unit_price": 3.7,
    "unit": "KG",
    "pack_size": 185.0,
    "charged_by_weight": false,
@@ -1520,7 +1520,7 @@
    "unit": "LTR",
    "pack_size": 1980.0,
    "charged_by_weight": false,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 96,
