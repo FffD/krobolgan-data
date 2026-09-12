@@ -186,6 +186,15 @@
    "on_sale": false,
    "unit_price": 2.17,
    "temporary_shortage": false
+  },
+  {
+   "date": "2026-09-12",
+   "status": "ok",
+   "shelf_price": 869,
+   "effective_price": 869,
+   "on_sale": false,
+   "unit_price": 2.17,
+   "temporary_shortage": false
   }
  ]
 }
