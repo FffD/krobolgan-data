@@ -3,9 +3,9 @@
  "name": "Chicken thighs",
  "category": "Meat & Poultry",
  "sku": "100261708",
- "product_name": "Ódýrt kjúklingalæri úrbeinuð 100%",
- "unit": "KG",
- "charged_by_weight": true,
+ "product_name": null,
+ "unit": null,
+ "charged_by_weight": null,
  "observations": [
   {
    "date": "2026-08-23",
@@ -213,6 +213,15 @@
    "on_sale": false,
    "unit_price": 3599.0,
    "temporary_shortage": false
+  },
+  {
+   "date": "2026-09-15",
+   "status": "missing",
+   "shelf_price": null,
+   "effective_price": null,
+   "on_sale": null,
+   "unit_price": null,
+   "temporary_shortage": null
   }
  ]
 }

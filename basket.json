@@ -296,8 +296,8 @@
   "sku": "100261708",
   "product_name": "Ódýrt kjúklingalæri úrbeinuð 100%",
   "unit": "KG",
-  "charged_by_weight": true,
-  "brand": "Ódýrt"
+  "charged_by_weight": false,
+  "brand": null
  },
  {
   "item_id": 31,
