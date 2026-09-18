@@ -1,6 +1,6 @@
 {
- "observed_date": "2026-09-17",
- "generated_at": "2026-09-17T11:41:16+00:00",
+ "observed_date": "2026-09-18",
+ "generated_at": "2026-09-18T11:14:24+00:00",
  "items": [
   {
    "item_id": 1,
@@ -432,7 +432,7 @@
    "unit": "KG",
    "pack_size": 500.0,
    "charged_by_weight": false,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 28,
@@ -729,10 +729,10 @@
    "sku": "05300024",
    "product_name": "Kornax hveiti",
    "status": "ok",
-   "shelf_price": 365,
-   "effective_price": 365,
+   "shelf_price": 364,
+   "effective_price": 364,
    "on_sale": false,
-   "unit_price": 182.5,
+   "unit_price": 182.0,
    "unit": "KG",
    "pack_size": 2.0,
    "charged_by_weight": false,
@@ -1104,7 +1104,7 @@
    "unit": "KG",
    "pack_size": 400.0,
    "charged_by_weight": false,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 70,
@@ -1520,7 +1520,7 @@
    "unit": "LTR",
    "pack_size": 1980.0,
    "charged_by_weight": false,
-   "temporary_shortage": false
+   "temporary_shortage": true
   },
   {
    "item_id": 96,
