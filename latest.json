@@ -1,6 +1,6 @@
 {
- "observed_date": "2026-09-19",
- "generated_at": "2026-09-19T10:58:46+00:00",
+ "observed_date": "2026-09-20",
+ "generated_at": "2026-09-20T11:23:30+00:00",
  "items": [
   {
    "item_id": 1,
@@ -960,7 +960,7 @@
    "unit": "KG",
    "pack_size": 1.0,
    "charged_by_weight": false,
-   "temporary_shortage": false
+   "temporary_shortage": true
   },
   {
    "item_id": 61,
@@ -976,7 +976,7 @@
    "unit": "STK",
    "pack_size": 3.0,
    "charged_by_weight": false,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 62,
