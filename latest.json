@@ -1,6 +1,6 @@
 {
- "observed_date": "2026-09-20",
- "generated_at": "2026-09-20T11:23:30+00:00",
+ "observed_date": "2026-09-21",
+ "generated_at": "2026-09-21T12:48:04+00:00",
  "items": [
   {
    "item_id": 1,
@@ -400,7 +400,7 @@
    "unit": "KG",
    "pack_size": 0.6499,
    "charged_by_weight": true,
-   "temporary_shortage": false
+   "temporary_shortage": true
   },
   {
    "item_id": 26,
@@ -633,10 +633,10 @@
    "sku": "100249695",
    "product_name": "Ota haframjöl 1,8kg",
    "status": "ok",
-   "shelf_price": 730,
-   "effective_price": 730,
+   "shelf_price": 690,
+   "effective_price": 690,
    "on_sale": false,
-   "unit_price": 0.41,
+   "unit_price": 0.38,
    "unit": "KG",
    "pack_size": 1800.0,
    "charged_by_weight": false,
@@ -960,7 +960,7 @@
    "unit": "KG",
    "pack_size": 1.0,
    "charged_by_weight": false,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 61,
@@ -1520,7 +1520,7 @@
    "unit": "LTR",
    "pack_size": 1980.0,
    "charged_by_weight": false,
-   "temporary_shortage": false
+   "temporary_shortage": true
   },
   {
    "item_id": 96,
