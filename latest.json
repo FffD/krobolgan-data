@@ -1,6 +1,6 @@
 {
- "observed_date": "2026-09-21",
- "generated_at": "2026-09-21T12:48:04+00:00",
+ "observed_date": "2026-09-22",
+ "generated_at": "2026-09-22T11:38:18+00:00",
  "items": [
   {
    "item_id": 1,
@@ -288,7 +288,7 @@
    "unit": "KG",
    "pack_size": 630.0,
    "charged_by_weight": false,
-   "temporary_shortage": false
+   "temporary_shortage": true
   },
   {
    "item_id": 19,
@@ -400,7 +400,7 @@
    "unit": "KG",
    "pack_size": 0.6499,
    "charged_by_weight": true,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 26,
@@ -857,12 +857,12 @@
    "sku": "100253498",
    "product_name": "sítrónur",
    "status": "ok",
-   "shelf_price": 99,
-   "effective_price": 99,
+   "shelf_price": 95,
+   "effective_price": 95,
    "on_sale": false,
-   "unit_price": 0.76,
+   "unit_price": 0.54,
    "unit": "KG",
-   "pack_size": 130.0,
+   "pack_size": 175.0,
    "charged_by_weight": false,
    "temporary_shortage": false
   },
@@ -896,7 +896,7 @@
    "unit": "KG",
    "pack_size": 250.0,
    "charged_by_weight": false,
-   "temporary_shortage": false
+   "temporary_shortage": true
   },
   {
    "item_id": 57,
@@ -1520,7 +1520,7 @@
    "unit": "LTR",
    "pack_size": 1980.0,
    "charged_by_weight": false,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 96,
@@ -1532,9 +1532,9 @@
    "shelf_price": 750,
    "effective_price": 750,
    "on_sale": false,
-   "unit_price": 378.79,
+   "unit_price": 375.0,
    "unit": "LTR",
-   "pack_size": 1.98,
+   "pack_size": 2.0,
    "charged_by_weight": false,
    "temporary_shortage": false
   },
