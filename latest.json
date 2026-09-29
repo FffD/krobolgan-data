@@ -1,6 +1,6 @@
 {
- "observed_date": "2026-09-28",
- "generated_at": "2026-09-28T13:54:34+00:00",
+ "observed_date": "2026-09-29",
+ "generated_at": "2026-09-29T12:52:37+00:00",
  "items": [
   {
    "item_id": 1,
@@ -288,7 +288,7 @@
    "unit": "KG",
    "pack_size": 630.0,
    "charged_by_weight": false,
-   "temporary_shortage": false
+   "temporary_shortage": true
   },
   {
    "item_id": 19,
@@ -400,7 +400,7 @@
    "unit": "KG",
    "pack_size": 0.6499,
    "charged_by_weight": true,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 26,
@@ -1152,7 +1152,7 @@
    "unit": "KG",
    "pack_size": 1.0,
    "charged_by_weight": false,
-   "temporary_shortage": false
+   "temporary_shortage": true
   },
   {
    "item_id": 73,
@@ -1408,7 +1408,7 @@
    "unit": "STK",
    "pack_size": 10.0,
    "charged_by_weight": false,
-   "temporary_shortage": false
+   "temporary_shortage": true
   },
   {
    "item_id": 89,
