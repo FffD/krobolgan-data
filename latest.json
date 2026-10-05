@@ -1,6 +1,6 @@
 {
- "observed_date": "2026-10-04",
- "generated_at": "2026-10-04T12:21:39+00:00",
+ "observed_date": "2026-10-05",
+ "generated_at": "2026-10-05T14:38:13+00:00",
  "items": [
   {
    "item_id": 1,
@@ -976,7 +976,7 @@
    "unit": "STK",
    "pack_size": 3.0,
    "charged_by_weight": false,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 62,
@@ -1111,16 +1111,16 @@
    "name": "Pickled red cabbage",
    "category": "Fruits & Vegetables",
    "sku": "100253542",
-   "product_name": "rauðkál",
-   "status": "ok",
-   "shelf_price": 589,
-   "effective_price": 589,
-   "on_sale": false,
-   "unit_price": 0.37,
-   "unit": "KG",
-   "pack_size": 1600.0,
-   "charged_by_weight": false,
-   "temporary_shortage": false
+   "product_name": null,
+   "status": "missing",
+   "shelf_price": null,
+   "effective_price": null,
+   "on_sale": null,
+   "unit_price": null,
+   "unit": null,
+   "pack_size": null,
+   "charged_by_weight": null,
+   "temporary_shortage": null
   },
   {
    "item_id": 71,
