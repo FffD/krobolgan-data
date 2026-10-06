@@ -3,9 +3,9 @@
  "name": "Doritos",
  "category": "Snacks & Sweets",
  "sku": "100210871",
- "product_name": "Doritos sweet chili",
- "unit": "KG",
- "charged_by_weight": false,
+ "product_name": null,
+ "unit": null,
+ "charged_by_weight": null,
  "observations": [
   {
    "date": "2026-08-23",
@@ -402,6 +402,15 @@
    "on_sale": false,
    "unit_price": 1.68,
    "temporary_shortage": false
+  },
+  {
+   "date": "2026-10-06",
+   "status": "missing",
+   "shelf_price": null,
+   "effective_price": null,
+   "on_sale": null,
+   "unit_price": null,
+   "temporary_shortage": null
   }
  ]
 }

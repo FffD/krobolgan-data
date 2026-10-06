@@ -574,10 +574,10 @@
   "name": "Bell peppers (mixed colors)",
   "category": "Fruits & Vegetables",
   "sku": "100253122",
-  "product_name": "paprika rauð",
+  "product_name": "Grænmeti paprika rauð",
   "unit": "KG",
   "charged_by_weight": false,
-  "brand": null
+  "brand": "Grænmeti"
  },
  {
   "item_id": 59,
@@ -837,7 +837,7 @@
   "product_name": "Doritos sweet chili",
   "unit": "KG",
   "charged_by_weight": false,
-  "brand": "Doritos"
+  "brand": null
  },
  {
   "item_id": 85,
