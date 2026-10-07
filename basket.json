@@ -574,10 +574,10 @@
   "name": "Bell peppers (mixed colors)",
   "category": "Fruits & Vegetables",
   "sku": "100253122",
-  "product_name": "Grænmeti paprika rauð",
+  "product_name": "paprika rauð",
   "unit": "KG",
   "charged_by_weight": false,
-  "brand": "Grænmeti"
+  "brand": null
  },
  {
   "item_id": 59,
