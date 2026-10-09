@@ -1,6 +1,6 @@
 {
- "observed_date": "2026-10-08",
- "generated_at": "2026-10-08T13:29:05+00:00",
+ "observed_date": "2026-10-09",
+ "generated_at": "2026-10-09T13:16:47+00:00",
  "items": [
   {
    "item_id": 1,
@@ -288,7 +288,7 @@
    "unit": "KG",
    "pack_size": 630.0,
    "charged_by_weight": false,
-   "temporary_shortage": false
+   "temporary_shortage": true
   },
   {
    "item_id": 19,
@@ -400,7 +400,7 @@
    "unit": "KG",
    "pack_size": 0.6499,
    "charged_by_weight": true,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 26,
@@ -665,10 +665,10 @@
    "sku": "05400182",
    "product_name": "Kelloggs cornflakes 1kg",
    "status": "ok",
-   "shelf_price": 880,
-   "effective_price": 880,
+   "shelf_price": 840,
+   "effective_price": 840,
    "on_sale": false,
-   "unit_price": 880.0,
+   "unit_price": 840.0,
    "unit": "KG",
    "pack_size": 1.0,
    "charged_by_weight": false,
@@ -857,12 +857,12 @@
    "sku": "100253498",
    "product_name": "sítrónur",
    "status": "ok",
-   "shelf_price": 95,
-   "effective_price": 95,
+   "shelf_price": 99,
+   "effective_price": 99,
    "on_sale": false,
-   "unit_price": 0.54,
+   "unit_price": 0.64,
    "unit": "KG",
-   "pack_size": 175.0,
+   "pack_size": 155.0,
    "charged_by_weight": false,
    "temporary_shortage": false
   },
@@ -921,10 +921,10 @@
    "sku": "100253122",
    "product_name": "paprika rauð",
    "status": "ok",
-   "shelf_price": 162,
-   "effective_price": 162,
+   "shelf_price": 169,
+   "effective_price": 169,
    "on_sale": false,
-   "unit_price": 0.9,
+   "unit_price": 0.94,
    "unit": "KG",
    "pack_size": 180.0,
    "charged_by_weight": false,
@@ -1015,7 +1015,7 @@
    "name": "Frozen peas",
    "category": "Fruits & Vegetables",
    "sku": "100252397",
-   "product_name": "First Price grænar baunir 700g",
+   "product_name": "First Price grænar baunir",
    "status": "ok",
    "shelf_price": 279,
    "effective_price": 279,
@@ -1584,7 +1584,7 @@
    "unit": "LTR",
    "pack_size": 750.0,
    "charged_by_weight": false,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 100,

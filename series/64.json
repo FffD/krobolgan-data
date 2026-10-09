@@ -3,7 +3,7 @@
  "name": "Frozen peas",
  "category": "Fruits & Vegetables",
  "sku": "100252397",
- "product_name": "First Price grænar baunir 700g",
+ "product_name": "First Price grænar baunir",
  "unit": "KG",
  "charged_by_weight": false,
  "observations": [
@@ -423,6 +423,15 @@
   },
   {
    "date": "2026-10-08",
+   "status": "ok",
+   "shelf_price": 279,
+   "effective_price": 279,
+   "on_sale": false,
+   "unit_price": 0.49,
+   "temporary_shortage": false
+  },
+  {
+   "date": "2026-10-09",
    "status": "ok",
    "shelf_price": 279,
    "effective_price": 279,
