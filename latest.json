@@ -1,6 +1,6 @@
 {
- "observed_date": "2026-10-09",
- "generated_at": "2026-10-09T13:16:47+00:00",
+ "observed_date": "2026-10-10",
+ "generated_at": "2026-10-10T12:31:37+00:00",
  "items": [
   {
    "item_id": 1,
@@ -201,10 +201,10 @@
    "sku": "02400069",
    "product_name": "MS smjör 500gr",
    "status": "ok",
-   "shelf_price": 860,
-   "effective_price": 860,
+   "shelf_price": 849,
+   "effective_price": 849,
    "on_sale": false,
-   "unit_price": 1.72,
+   "unit_price": 1.7,
    "unit": "KG",
    "pack_size": 500.0,
    "charged_by_weight": false,
