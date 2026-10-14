@@ -1,6 +1,6 @@
 {
- "observed_date": "2026-10-13",
- "generated_at": "2026-10-13T14:11:15+00:00",
+ "observed_date": "2026-10-14",
+ "generated_at": "2026-10-14T11:51:37+00:00",
  "items": [
   {
    "item_id": 1,
@@ -144,7 +144,7 @@
    "unit": "KG",
    "pack_size": 500.0,
    "charged_by_weight": false,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 10,
@@ -288,14 +288,14 @@
    "unit": "KG",
    "pack_size": 630.0,
    "charged_by_weight": false,
-   "temporary_shortage": false
+   "temporary_shortage": true
   },
   {
    "item_id": 19,
    "name": "Lambalæri (leg of lamb)",
    "category": "Meat & Poultry",
    "sku": "100132054",
-   "product_name": "Goða lambalæri frosið",
+   "product_name": "Norðlenska lambalæri frosið",
    "status": "ok",
    "shelf_price": 8313,
    "effective_price": 8313,
@@ -336,7 +336,7 @@
    "unit": "KG",
    "pack_size": 0.6799,
    "charged_by_weight": true,
-   "temporary_shortage": false
+   "temporary_shortage": true
   },
   {
    "item_id": 22,
@@ -1056,7 +1056,7 @@
    "unit": "KG",
    "pack_size": 800.0,
    "charged_by_weight": false,
-   "temporary_shortage": false
+   "temporary_shortage": true
   },
   {
    "item_id": 67,
