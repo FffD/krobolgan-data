@@ -1,6 +1,6 @@
 {
- "observed_date": "2026-10-14",
- "generated_at": "2026-10-14T11:51:37+00:00",
+ "observed_date": "2026-10-15",
+ "generated_at": "2026-10-15T11:28:37+00:00",
  "items": [
   {
    "item_id": 1,
@@ -329,12 +329,12 @@
    "sku": "100236974",
    "product_name": "Ódýrt lambahakk vacuumpakkað",
    "status": "ok",
-   "shelf_price": 1835,
-   "effective_price": 1835,
+   "shelf_price": 1754,
+   "effective_price": 1754,
    "on_sale": false,
    "unit_price": 2699.0,
    "unit": "KG",
-   "pack_size": 0.6799,
+   "pack_size": 0.6499,
    "charged_by_weight": true,
    "temporary_shortage": true
   },
@@ -1056,7 +1056,7 @@
    "unit": "KG",
    "pack_size": 800.0,
    "charged_by_weight": false,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 67,
