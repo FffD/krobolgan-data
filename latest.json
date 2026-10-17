@@ -1,6 +1,6 @@
 {
- "observed_date": "2026-10-16",
- "generated_at": "2026-10-16T11:24:09+00:00",
+ "observed_date": "2026-10-17",
+ "generated_at": "2026-10-17T10:43:47+00:00",
  "items": [
   {
    "item_id": 1,
@@ -1344,7 +1344,7 @@
    "unit": "KG",
    "pack_size": 170.0,
    "charged_by_weight": false,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 85,
@@ -1472,7 +1472,7 @@
    "unit": "LTR",
    "pack_size": 500.0,
    "charged_by_weight": false,
-   "temporary_shortage": false
+   "temporary_shortage": true
   },
   {
    "item_id": 93,
