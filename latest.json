@@ -1,6 +1,6 @@
 {
- "observed_date": "2026-10-19",
- "generated_at": "2026-10-19T13:14:44+00:00",
+ "observed_date": "2026-10-20",
+ "generated_at": "2026-10-20T11:35:55+00:00",
  "items": [
   {
    "item_id": 1,
@@ -336,7 +336,7 @@
    "unit": "KG",
    "pack_size": 0.6499,
    "charged_by_weight": true,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 22,
@@ -921,12 +921,12 @@
    "sku": "100253122",
    "product_name": "paprika rauð",
    "status": "ok",
-   "shelf_price": 169,
-   "effective_price": 169,
+   "shelf_price": 175,
+   "effective_price": 175,
    "on_sale": false,
-   "unit_price": 0.94,
+   "unit_price": 0.9,
    "unit": "KG",
-   "pack_size": 180.0,
+   "pack_size": 195.0,
    "charged_by_weight": false,
    "temporary_shortage": false
   },
@@ -960,7 +960,7 @@
    "unit": "KG",
    "pack_size": 1.0,
    "charged_by_weight": false,
-   "temporary_shortage": false
+   "temporary_shortage": true
   },
   {
    "item_id": 61,
@@ -1344,7 +1344,7 @@
    "unit": "KG",
    "pack_size": 170.0,
    "charged_by_weight": false,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 85,
@@ -1424,7 +1424,7 @@
    "unit": "STK",
    "pack_size": 20.0,
    "charged_by_weight": false,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 90,
@@ -1463,16 +1463,16 @@
    "name": "Extra virgin olive oil",
    "category": "Pantry Sauces & Condiments",
    "sku": "100201669",
-   "product_name": "Grön Balance ólífuolía extra virgin",
-   "status": "ok",
-   "shelf_price": 1439,
-   "effective_price": 1439,
-   "on_sale": false,
-   "unit_price": 2.88,
-   "unit": "LTR",
-   "pack_size": 500.0,
-   "charged_by_weight": false,
-   "temporary_shortage": true
+   "product_name": null,
+   "status": "missing",
+   "shelf_price": null,
+   "effective_price": null,
+   "on_sale": null,
+   "unit_price": null,
+   "unit": null,
+   "pack_size": null,
+   "charged_by_weight": null,
+   "temporary_shortage": null
   },
   {
    "item_id": 93,
