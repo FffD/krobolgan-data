@@ -1,6 +1,6 @@
 {
- "observed_date": "2026-10-23",
- "generated_at": "2026-10-23T11:38:45+00:00",
+ "observed_date": "2026-10-24",
+ "generated_at": "2026-10-24T10:59:50+00:00",
  "items": [
   {
    "item_id": 1,
@@ -672,7 +672,7 @@
    "unit": "KG",
    "pack_size": 1.0,
    "charged_by_weight": false,
-   "temporary_shortage": false
+   "temporary_shortage": true
   },
   {
    "item_id": 43,
@@ -1424,7 +1424,7 @@
    "unit": "STK",
    "pack_size": 20.0,
    "charged_by_weight": false,
-   "temporary_shortage": false
+   "temporary_shortage": true
   },
   {
    "item_id": 90,
@@ -1575,7 +1575,7 @@
    "name": "Apple juice (1L carton)",
    "category": "Non-Alcoholic Beverages",
    "sku": "03300416",
-   "product_name": "Floridana eplasafi 3x250 ml",
+   "product_name": "Floridana 3pk eplasafi",
    "status": "ok",
    "shelf_price": 323,
    "effective_price": 323,
