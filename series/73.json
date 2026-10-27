@@ -3,7 +3,7 @@
  "name": "Lax (Salmon fillets)",
  "category": "Fish & Seafood",
  "sku": "100268095",
- "product_name": "Fiskverzlun Hafliða premium lax",
+ "product_name": "Fiskverzlun Hafliða premium lax spicy lemon",
  "unit": "KG",
  "charged_by_weight": false,
  "observations": [
@@ -585,6 +585,15 @@
   },
   {
    "date": "2026-10-26",
+   "status": "ok",
+   "shelf_price": 1899,
+   "effective_price": 1899,
+   "on_sale": false,
+   "unit_price": 6.33,
+   "temporary_shortage": false
+  },
+  {
+   "date": "2026-10-27",
    "status": "ok",
    "shelf_price": 1899,
    "effective_price": 1899,
