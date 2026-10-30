@@ -1,6 +1,6 @@
 {
- "observed_date": "2026-10-29",
- "generated_at": "2026-10-29T13:00:15+00:00",
+ "observed_date": "2026-10-30",
+ "generated_at": "2026-10-30T12:55:25+00:00",
  "items": [
   {
    "item_id": 1,
@@ -672,7 +672,7 @@
    "unit": "KG",
    "pack_size": 1.0,
    "charged_by_weight": false,
-   "temporary_shortage": false
+   "temporary_shortage": true
   },
   {
    "item_id": 43,
@@ -976,7 +976,7 @@
    "unit": "STK",
    "pack_size": 3.0,
    "charged_by_weight": false,
-   "temporary_shortage": false
+   "temporary_shortage": true
   },
   {
    "item_id": 62,
@@ -1273,10 +1273,10 @@
    "sku": "05000048",
    "product_name": "Góu hraunbitar",
    "status": "ok",
-   "shelf_price": 480,
-   "effective_price": 480,
+   "shelf_price": 490,
+   "effective_price": 490,
    "on_sale": false,
-   "unit_price": 2.4,
+   "unit_price": 2.45,
    "unit": "KG",
    "pack_size": 200.0,
    "charged_by_weight": false,
@@ -1424,7 +1424,7 @@
    "unit": "STK",
    "pack_size": 20.0,
    "charged_by_weight": false,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 90,
