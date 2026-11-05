@@ -1,6 +1,6 @@
 {
- "observed_date": "2026-11-04",
- "generated_at": "2026-11-04T14:31:29+00:00",
+ "observed_date": "2026-11-05",
+ "generated_at": "2026-11-05T14:38:56+00:00",
  "items": [
   {
    "item_id": 1,
@@ -336,7 +336,7 @@
    "unit": "KG",
    "pack_size": 0.6499,
    "charged_by_weight": true,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 22,
@@ -960,7 +960,7 @@
    "unit": "KG",
    "pack_size": 1.0,
    "charged_by_weight": false,
-   "temporary_shortage": false
+   "temporary_shortage": true
   },
   {
    "item_id": 61,
@@ -969,10 +969,10 @@
    "sku": "100113126",
    "product_name": "T&A romain salat",
    "status": "ok",
-   "shelf_price": 998,
-   "effective_price": 998,
+   "shelf_price": 1149,
+   "effective_price": 1149,
    "on_sale": false,
-   "unit_price": 332.67,
+   "unit_price": 383.0,
    "unit": "STK",
    "pack_size": 3.0,
    "charged_by_weight": false,
@@ -1273,10 +1273,10 @@
    "sku": "05000048",
    "product_name": "Góu hraunbitar",
    "status": "ok",
-   "shelf_price": 490,
-   "effective_price": 490,
+   "shelf_price": 529,
+   "effective_price": 529,
    "on_sale": false,
-   "unit_price": 2.45,
+   "unit_price": 2.65,
    "unit": "KG",
    "pack_size": 200.0,
    "charged_by_weight": false,
@@ -1408,7 +1408,7 @@
    "unit": "STK",
    "pack_size": 10.0,
    "charged_by_weight": false,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 89,
@@ -1424,7 +1424,7 @@
    "unit": "STK",
    "pack_size": 20.0,
    "charged_by_weight": false,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 90,
