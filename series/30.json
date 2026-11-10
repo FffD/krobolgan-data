@@ -717,6 +717,15 @@
    "on_sale": null,
    "unit_price": null,
    "temporary_shortage": null
+  },
+  {
+   "date": "2026-11-10",
+   "status": "missing",
+   "shelf_price": null,
+   "effective_price": null,
+   "on_sale": null,
+   "unit_price": null,
+   "temporary_shortage": null
   }
  ]
 }
