@@ -1,6 +1,6 @@
 {
- "observed_date": "2026-11-10",
- "generated_at": "2026-11-10T14:52:42+00:00",
+ "observed_date": "2026-11-11",
+ "generated_at": "2026-11-11T14:22:04+00:00",
  "items": [
   {
    "item_id": 1,
@@ -985,10 +985,10 @@
    "sku": "100237822",
    "product_name": "brokkólí",
    "status": "ok",
-   "shelf_price": 449,
-   "effective_price": 449,
+   "shelf_price": 498,
+   "effective_price": 498,
    "on_sale": false,
-   "unit_price": 0.9,
+   "unit_price": 1.0,
    "unit": "KG",
    "pack_size": 500.0,
    "charged_by_weight": false,
