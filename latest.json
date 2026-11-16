@@ -1,6 +1,6 @@
 {
- "observed_date": "2026-11-14",
- "generated_at": "2026-11-14T13:30:47+00:00",
+ "observed_date": "2026-11-16",
+ "generated_at": "2026-11-16T15:45:29+00:00",
  "items": [
   {
    "item_id": 1,
@@ -329,12 +329,12 @@
    "sku": "100236974",
    "product_name": "Ódýrt lambahakk vacuumpakkað",
    "status": "ok",
-   "shelf_price": 1754,
-   "effective_price": 1754,
+   "shelf_price": 1619,
+   "effective_price": 1619,
    "on_sale": false,
    "unit_price": 2699.0,
    "unit": "KG",
-   "pack_size": 0.6499,
+   "pack_size": 0.5999,
    "charged_by_weight": true,
    "temporary_shortage": false
   },
@@ -1337,10 +1337,10 @@
    "sku": "100210871",
    "product_name": "Doritos sweet chili",
    "status": "ok",
-   "shelf_price": 279,
-   "effective_price": 279,
+   "shelf_price": 276,
+   "effective_price": 276,
    "on_sale": false,
-   "unit_price": 1.64,
+   "unit_price": 1.62,
    "unit": "KG",
    "pack_size": 170.0,
    "charged_by_weight": false,
