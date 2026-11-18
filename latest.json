@@ -1,6 +1,6 @@
 {
- "observed_date": "2026-11-17",
- "generated_at": "2026-11-17T15:59:12+00:00",
+ "observed_date": "2026-11-18",
+ "generated_at": "2026-11-18T15:39:12+00:00",
  "items": [
   {
    "item_id": 1,
@@ -457,12 +457,12 @@
    "sku": "100244878",
    "product_name": "Ódýrt kjúklingabringur",
    "status": "ok",
-   "shelf_price": 2354,
-   "effective_price": 2354,
+   "shelf_price": 2215,
+   "effective_price": 2215,
    "on_sale": false,
    "unit_price": 2769.0,
    "unit": "KG",
-   "pack_size": 0.8501,
+   "pack_size": 0.7999,
    "charged_by_weight": true,
    "temporary_shortage": false
   },
@@ -1216,7 +1216,7 @@
    "unit": "KG",
    "pack_size": 100.0,
    "charged_by_weight": false,
-   "temporary_shortage": true
+   "temporary_shortage": false
   },
   {
    "item_id": 77,
